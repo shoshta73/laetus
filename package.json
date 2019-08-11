@@ -1,8 +1,8 @@
 {
     "name": "laetus",
-    "displayName": "Laetus Dark Vibrant",
-    "description": "Dark and vibrant theme with colorful syntax. Designed mainly for Unity.",
-    "version": "0.0.4",
+    "displayName": "Laetus: Dark Vibrant Theme",
+    "description": "Dark and vibrant theme with minimalist flat UI and colorful syntax.",
+    "version": "0.0.7",
     "publisher": "10F",
     "icon": "images/icon.png",
     "author": "10F",

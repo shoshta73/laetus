@@ -1,5 +1,8 @@
 # Laetus Theme
-### Dark theme with colorful syntax. Designed mainly for Unity.
+### Dark and vibrant theme with minimalist flat UI and colorful syntax.
+
+[![](https://vsmarketplacebadge.apphb.com/version/10f.laetus.svg)](https://marketplace.visualstudio.com/items?itemName=10f.laetus)&nbsp;
+[![](https://img.shields.io/visual-studio-marketplace/stars/10f.laetus.svg)](https://marketplace.visualstudio.com/items?itemName=10f.laetus)
 
 <!-- [![Version](https://vsmarketplacebadge.apphb.com/version/s3gf4ult.monokai-vibrant.svg)](https://marketplace.visualstudio.com/items?itemName=s3gf4ult.monokai-vibrant)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/s3gf4ult.monokai-vibrant.svg)](https://marketplace.visualstudio.com/items?itemName=s3gf4ult.monokai-vibrant)

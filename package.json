@@ -1,7 +1,7 @@
 {
     "name": "laetus",
     "displayName": "Laetus",
-    "description": "Dark theme with colorful syntax.",
+    "description": "Dark theme with colorful syntax. Designed mainly for Unity.",
     "version": "0.0.0",
     "publisher": "10F",
     "icon": "images/icon.png",
@@ -12,12 +12,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/dylantmarsh/monokai-vibrant.git"
+        "url": "https://gitlab.com/10F/laetus.git"
     },
     "bugs": {
-        "url": "https://github.com/dylantmarsh/monokai-vibrant/issues"
+        "url": "https://gitlab.com/10F/laetus"
     },
-    "homepage": "https://github.com/dylantmarsh/monokai-vibrant/blob/master/README.md",
+    "homepage": "https://gitlab.com/10F/laetus/blob/master/README.md",
     "engines": {
         "vscode": "^1.15.0"
     },
@@ -45,6 +45,6 @@
         ]
     },
     "__metadata": {
-        "publisherDisplayName": "v10"
+        "publisherDisplayName": "10F"
     }
 }

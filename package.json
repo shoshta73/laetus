@@ -1,8 +1,8 @@
 {
     "name": "laetus",
-    "displayName": "Laetus",
-    "description": "Dark theme with colorful syntax. Designed mainly for Unity.",
-    "version": "0.0.1",
+    "displayName": "Laetus Dark Vibrant",
+    "description": "Dark and vibrant theme with colorful syntax. Designed mainly for Unity.",
+    "version": "0.0.2",
     "publisher": "10F",
     "icon": "images/icon.png",
     "author": "10F",
@@ -29,7 +29,8 @@
         "Vibrant",
         "Laetus",
         "Unity",
-        "Monokai"
+        "Monokai",
+        "Dark"
     ],
     "contributes": {
         "themes": [{

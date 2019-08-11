@@ -1,0 +1,3 @@
+# Laetus
+
+Theme for VSCode

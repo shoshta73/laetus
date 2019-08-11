@@ -1,0 +1,50 @@
+{
+    "name": "laetus",
+    "displayName": "Laetus",
+    "description": "Dark theme with colorful syntax.",
+    "version": "0.0.0",
+    "publisher": "10F",
+    "icon": "images/icon.png",
+    "author": "10F",
+    "license": "MIT",
+    "galleryBanner": {
+        "color": "#F5B800"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dylantmarsh/monokai-vibrant.git"
+    },
+    "bugs": {
+        "url": "https://github.com/dylantmarsh/monokai-vibrant/issues"
+    },
+    "homepage": "https://github.com/dylantmarsh/monokai-vibrant/blob/master/README.md",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Theme",
+        "Vibrant",
+        "Laetus",
+        "Unity",
+        "Monokai"
+    ],
+    "contributes": {
+        "themes": [{
+                "label": "Laetus Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/laetus-blu-color-theme.json"
+            },
+            {
+                "label": "Laetus Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/laetus-blk-color-theme.json"
+            }
+        ]
+    },
+    "__metadata": {
+        "publisherDisplayName": "v10"
+    }
+}
